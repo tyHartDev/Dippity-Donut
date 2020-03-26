@@ -1,19 +1,26 @@
 {
   "name": "dippity_donut",
   "version": "1.0.0",
-  "description": "",
+  "description": "Nucamp Project1",
   "main": "index.html",
   "scripts": {
+    "lite": "lite-server",
+    "start": "npm run-lite",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/tyHartDev/Dippity-Donut.git"
   },
-  "author": "",
+  "author": "Tyler Hart",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/tyHartDev/Dippity-Donut/issues"
   },
-  "homepage": "https://github.com/tyHartDev/Dippity-Donut#readme"
+  "homepage": "https://github.com/tyHartDev/Dippity-Donut#readme",
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.12.9"
+  }
 }
