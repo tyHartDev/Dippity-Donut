@@ -25,7 +25,7 @@ p {
 }
 .jumbotron {
     margin: 0;
-    padding: 30px;
+    padding: 20px;
     background-color: #ececec;
     color: white;
 }
@@ -51,6 +51,7 @@ p {
 
 .carousel-caption {
     background-color: rgba(0, 0, 0, 0.5);
+    
 }
 
 .carousel {
