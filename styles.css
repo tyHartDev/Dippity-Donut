@@ -1,13 +1,23 @@
 body {
     font-family: "Open Sans", sans-serif;
 }
+.main {
+    background-image: url("img/background.jpg");
+}
+
+.background-image {
+    opacity: 1.0;
+}
+
 h1, h2, h3 {
     font-family: "Open Sans", sans-serif;
 }
 h2 {
-    color: #3046C5;
+    color: #f0a9ad;
+    font-weight: bolder;
     text-align: center;
     padding-top: 30px;
+    
 }
 header h2 {
     color: #CEC8FF;
@@ -55,5 +65,17 @@ p {
 }
 
 .carousel {
-    border: solid #5637DD;
+    border: solid #e7d5d6;
+}
+
+.transbox {
+  margin: 30px;
+  background-color: black;
+  border: 1px solid teal;
+  opacity: 0.8;
+}
+
+.transbox p {
+    font-weight: bolder;
+    color: #f0a9ad;
 }
