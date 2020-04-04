@@ -79,3 +79,15 @@ p {
     font-weight: bolder;
     color: #f0a9ad;
 }
+
+.about-bg {
+    background-image: url(img/7259.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.contactus-bg {
+    background-image: url(img/contactusbg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
